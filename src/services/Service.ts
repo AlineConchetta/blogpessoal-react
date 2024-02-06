@@ -2,7 +2,7 @@
 
 const api = axios.create({
     baseURL: import.meta.env.VITE_API_URL
-    // baseURL: 'https://blogpessoal-z837.onrender.com'
+    // baseURL: 'https://blogpessoal-hepy.onrender.com/'
     //baseURL: 'http://localhost:8080'
 })
 
